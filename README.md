@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Olá pessoas! Bem vindos ao meu perfil.
+Meu nome é Leonardo Augusto, ou melhor, Léo para simplificar. 
+Sou estudante em Desenvolvimento de Sistemas na ETEC Fernando Prestes em Sorocaba.
 <!--
 **LeooAugus/LeooAugus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
