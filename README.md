@@ -1,5 +1,5 @@
-## Olá pessoas! Bem vindos ao meu perfil.
-# Quem sou
+# Olá pessoas! Bem vindos ao meu perfil.
+## Quem sou eu
 Meu nome é Leonardo Augusto ou Léo se preferir. <br>
 Sou estudante em Desenvolvimento de Sistemas na ETEC Fernando Prestes em Sorocaba.
 <!--
